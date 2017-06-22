@@ -1,0 +1,35 @@
+.picture {
+	width: 560px;
+	height: 450px;
+	position: relative;
+	background: #80cdc6;
+	overflow: hidden;
+}
+
+img {
+	display: block;
+	width: 560px;
+	position: absolute;
+}
+
+.clouds {
+	top: -5px;
+	right: 0;
+	width: 350px;
+}
+
+.water {
+	bottom: 0;
+	left: 0;
+}
+
+.wooden-ship {
+	bottom: 40px;
+	left: 10px;
+	width: 130px;
+}
+
+.world {
+	bottom: 25px;
+	left: 0;
+}
